@@ -31,7 +31,7 @@ export default function Show({ auth, success, project, tasks, queryParams }) {
               <img
                 src={project.image_path}
                 alt=""
-                className="w-full h-64 object-cover"
+                className="max-w-full max-h-64 object-contain mx-auto rounded"
               />
             </div>
             <div className="p-6 text-gray-900 dark:text-gray-100">
