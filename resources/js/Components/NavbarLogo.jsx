@@ -1,12 +1,12 @@
 
-export default function ApplicationLogo(props) {
+export default function NavbarLogo(props) {
 
     return (
       <img
       {...props}
       src="/image/narita_logo.jpeg"
       alt="Logo"
-      style={{ width: '150px', height: '150px' }}
+      style={{ width: '50px', height: '50px' }}
       />
     );
 }
