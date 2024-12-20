@@ -18,7 +18,8 @@
 5. Execute `npm install`
 6. Set application key - `php artisan key:generate --ansi`
 7. Execute migrations and seed data - `php artisan migrate --seed`
-8. Start vite server - `npm run dev`
-9. Start Artisan server - `php artisan serve`
+8. Execute Storage Link Image - `php artisan storage:link`
+9. Start vite server - `npm run dev`
+10. Start Artisan server - `php artisan serve`
 
 
