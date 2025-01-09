@@ -4,9 +4,9 @@ export default function NavbarLogo(props) {
     return (
       <img
       {...props}
-      src="/image/narita_logo.jpeg"
+      src="/image/batamlogo.png"
       alt="Logo"
-      style={{ width: '50px', height: '50px' }}
+      style={{ width: '100px', height: '50px' }}
       />
     );
 }

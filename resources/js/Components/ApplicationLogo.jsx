@@ -4,9 +4,9 @@ export default function ApplicationLogo(props) {
     return (
       <img
       {...props}
-      src="/image/narita_logo.jpeg"
+      src="/image/batamlogo.png"
       alt="Logo"
-      style={{ width: '150px', height: '150px' }}
+      style={{ width: '300px', height: '150px' }}
       />
     );
 }
